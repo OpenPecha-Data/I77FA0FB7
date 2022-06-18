@@ -1,0 +1,103 @@
+id: 7f9f9f8a9bac4f7c921a7a48806d0825
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  2d5d54a088c9488aaa9f04fac784c427:
+    span:
+      start: 0
+      end: 147
+    metadata:
+      page_num: 1a
+    page_info: null
+    imgnum: 1
+    reference: null
+  5fb74b14ba534622b1961a203ee22da4:
+    span:
+      start: 149
+      end: 1147
+    metadata:
+      page_num: 1b
+    page_info: null
+    imgnum: 2
+    reference: null
+  a476eaeaaa4640c2a13057b99575c6dc:
+    span:
+      start: 1149
+      end: 2148
+    metadata:
+      page_num: 2a
+    page_info: null
+    imgnum: 3
+    reference: null
+  72993de3cc5a44029be97bba69dde1fa:
+    span:
+      start: 2150
+      end: 3148
+    metadata:
+      page_num: 2b
+    page_info: null
+    imgnum: 4
+    reference: null
+  a205fb2eb78c4911adc9e5970fd0dcfa:
+    span:
+      start: 3150
+      end: 4156
+    metadata:
+      page_num: 3a
+    page_info: null
+    imgnum: 5
+    reference: null
+  b75ad1a3d0af450a97301849482cbfe5:
+    span:
+      start: 4158
+      end: 5187
+    metadata:
+      page_num: 3b
+    page_info: null
+    imgnum: 6
+    reference: null
+  8c871e54af0846f1acff30baf583a2cc:
+    span:
+      start: 5189
+      end: 6235
+    metadata:
+      page_num: 4a
+    page_info: null
+    imgnum: 7
+    reference: null
+  6624ea26daf34289befbc25ec96fcc4a:
+    span:
+      start: 6237
+      end: 7314
+    metadata:
+      page_num: 4b
+    page_info: null
+    imgnum: 8
+    reference: null
+  540c8b1a1a6b4f2f91d533228b3f59eb:
+    span:
+      start: 7316
+      end: 8184
+    metadata:
+      page_num: 5a
+    page_info: null
+    imgnum: 9
+    reference: null
+  a1d8f4a0b1ef4bd5bf70edf834c3ed5f:
+    span:
+      start: 8186
+      end: 9059
+    metadata:
+      page_num: 5b
+    page_info: null
+    imgnum: 10
+    reference: null
+  57b7ca9e10c64a87aa87dde758ccdafc:
+    span:
+      start: 9061
+      end: 9853
+    metadata:
+      page_num: 6a
+    page_info: null
+    imgnum: 11
+    reference: null
